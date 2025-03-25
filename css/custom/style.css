@@ -378,8 +378,12 @@ h6 {
 /*========================================== 5.HEADER START ===========================================*/
 
 .header-bgimage-1 {
-  background-image: url("../../images/Slider.png");
+  background-image: url("../../images/bodyguard-service-private-security-handsome-man-2024-11-13-12-06-04-utc.jpg");
   position: relative;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+  background-blend-mode: darken; /* Blends the black color with the image */
 }
 .header-padding {
   padding-bottom: 200px;
@@ -671,7 +675,7 @@ h6 {
 }
 .header-bgimage-3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)),
-    url("../../images/Image.jpg");
+    url("../../images/portrait-of-confident-male-patrol-police-officer-s-2024-12-05-23-16-41-utc.jpg");
   background-size: cover;
   background-position: center;
   padding-bottom: 100px;
