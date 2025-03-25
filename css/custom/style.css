@@ -2022,3 +2022,9 @@ textarea:focus {
   }
 }
 /*========================================== 18.MEDIA QUERIES END ===========================================*/
+.menuabout {
+  top: 1.5em;
+}
+.menuabout:hover {
+  top: 0;
+}
