@@ -2028,3 +2028,11 @@ textarea:focus {
 .menuabout:hover {
   top: 0;
 }
+
+.contact-form-1 {
+  width: 70%;
+}
+
+.form-col-1 {
+  padding-left: 21%;
+}
